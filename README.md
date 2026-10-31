@@ -18,6 +18,7 @@ I'm an Informatics Management student interested in technology and software deve
 - PHP
 - Java
 - Kotlin
+- Dart
 - HTML
 - CSS
 - JavaScript
@@ -31,6 +32,9 @@ I'm an Informatics Management student interested in technology and software deve
 - Android Studio
 - Figma
 - QGIS
+- WordPress
+- WooCommerce
+- Flutter
 
 ## 📂 Featured Projects
 
